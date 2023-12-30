@@ -1,0 +1,32 @@
+.p1{
+	background: url('../img/p1/bg.png');
+	background-size: 100% 100%;
+}
+.p1 .waigong{
+	width: 30vw;
+	position: absolute;
+	top: 20vh;
+	left: 10vw;
+}
+.p1 .dialog_box{
+	color: white;
+	position: absolute;
+	top: 40vh;
+	left: 0;
+	right: 0;
+	margin: auto;
+	border: 2vw solid orange;
+	width: 80vw;
+	height: 20vh;
+	font-size: 5vw;
+	padding: 3vw;
+	background: #303030;
+	
+}
+.p1 .zhi{
+	width: 30vw;
+	position: absolute;
+	top: 20vh;
+	left: 48vw;
+	z-index: 1;
+}

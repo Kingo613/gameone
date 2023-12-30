@@ -1,0 +1,32 @@
+.guide{
+	background: #282828;
+	background-size: 100% 100%;
+	color: white;
+}
+.guide .ming{
+	width: 30vw;
+	position: absolute;
+	top: 15vh;
+	left: 18vw;
+}
+.guide .zhi{
+	width: 30vw;
+	position: absolute;
+	top: 20vh;
+	left: 48vw;
+	z-index: 1;
+}
+.guide .dialog_box{
+	position: absolute;
+	top: 40vh;
+	left: 0;
+	right: 0;
+	margin: auto;
+	border: 2vw solid orange;
+	width: 80vw;
+	height: 20vh;
+	font-size: 5vw;
+	padding: 3vw;
+	background: #303030;
+	
+}
